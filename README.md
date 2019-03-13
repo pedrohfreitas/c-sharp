@@ -1,2 +1,2 @@
-# c-sharp-basic
-Conteúdo básico de C#
+# c-sharp
+Linguagem e seus Recursos C#

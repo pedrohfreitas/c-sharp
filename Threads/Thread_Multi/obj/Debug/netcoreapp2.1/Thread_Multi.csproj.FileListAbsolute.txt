@@ -1,0 +1,11 @@
+C:\dev\c-sharp\Threads\Thread_Multi\bin\Debug\netcoreapp2.1\Thread_Multi.deps.json
+C:\dev\c-sharp\Threads\Thread_Multi\bin\Debug\netcoreapp2.1\Thread_Multi.runtimeconfig.json
+C:\dev\c-sharp\Threads\Thread_Multi\bin\Debug\netcoreapp2.1\Thread_Multi.runtimeconfig.dev.json
+C:\dev\c-sharp\Threads\Thread_Multi\bin\Debug\netcoreapp2.1\Thread_Multi.dll
+C:\dev\c-sharp\Threads\Thread_Multi\bin\Debug\netcoreapp2.1\Thread_Multi.pdb
+C:\dev\c-sharp\Threads\Thread_Multi\obj\Debug\netcoreapp2.1\Thread_Multi.csprojAssemblyReference.cache
+C:\dev\c-sharp\Threads\Thread_Multi\obj\Debug\netcoreapp2.1\Thread_Multi.csproj.CoreCompileInputs.cache
+C:\dev\c-sharp\Threads\Thread_Multi\obj\Debug\netcoreapp2.1\Thread_Multi.AssemblyInfoInputs.cache
+C:\dev\c-sharp\Threads\Thread_Multi\obj\Debug\netcoreapp2.1\Thread_Multi.AssemblyInfo.cs
+C:\dev\c-sharp\Threads\Thread_Multi\obj\Debug\netcoreapp2.1\Thread_Multi.dll
+C:\dev\c-sharp\Threads\Thread_Multi\obj\Debug\netcoreapp2.1\Thread_Multi.pdb

@@ -1,0 +1,11 @@
+C:\dev\c-sharp\Threads\Thread_Basic\bin\Debug\netcoreapp2.1\Thread_Basic.deps.json
+C:\dev\c-sharp\Threads\Thread_Basic\bin\Debug\netcoreapp2.1\Thread_Basic.runtimeconfig.json
+C:\dev\c-sharp\Threads\Thread_Basic\bin\Debug\netcoreapp2.1\Thread_Basic.runtimeconfig.dev.json
+C:\dev\c-sharp\Threads\Thread_Basic\bin\Debug\netcoreapp2.1\Thread_Basic.dll
+C:\dev\c-sharp\Threads\Thread_Basic\bin\Debug\netcoreapp2.1\Thread_Basic.pdb
+C:\dev\c-sharp\Threads\Thread_Basic\obj\Debug\netcoreapp2.1\Thread_Basic.csprojAssemblyReference.cache
+C:\dev\c-sharp\Threads\Thread_Basic\obj\Debug\netcoreapp2.1\Thread_Basic.csproj.CoreCompileInputs.cache
+C:\dev\c-sharp\Threads\Thread_Basic\obj\Debug\netcoreapp2.1\Thread_Basic.AssemblyInfoInputs.cache
+C:\dev\c-sharp\Threads\Thread_Basic\obj\Debug\netcoreapp2.1\Thread_Basic.AssemblyInfo.cs
+C:\dev\c-sharp\Threads\Thread_Basic\obj\Debug\netcoreapp2.1\Thread_Basic.dll
+C:\dev\c-sharp\Threads\Thread_Basic\obj\Debug\netcoreapp2.1\Thread_Basic.pdb
